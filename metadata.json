@@ -2,7 +2,7 @@
   "name": "BOO",
   "symbol": "BOO",
   "image": "https://raw.githubusercontent.com/DaveTheDev-Sol/boocoin-assets/main/boologos.png",
-  "description": "Dont get spooked.",
+  "description": "Pure Horror",
   "attributes": [
     { "trait_type": "Type", "value": "Memecoin" },
     { "trait_type": "Chain", "value": "Solana" },
@@ -12,6 +12,6 @@
   "extensions": {
     "website": "https://x.com/DarkDev_Sol",
     "twitter": "https://x.com/DarkDev_Sol",
-    "telegram": "https://telegram.org/"
+    "telegram": "https://telegram.org"
   }
 }
