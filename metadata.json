@@ -6,12 +6,12 @@
   "attributes": [
     { "trait_type": "Type", "value": "Memecoin" },
     { "trait_type": "Chain", "value": "Solana" },
-    { "trait_type": "Launch Year", "value": "2025" },
-    { "trait_type": "Banner", "value": "https://raw.githubusercontent.com/DaveTheDev-Sol/boocoin-assets/main/boobans.png" }
+    { "trait_type": "Launch Year", "value": "2025" }
   ],
   "extensions": {
     "website": "https://x.com/DarkDev_Sol",
     "twitter": "https://x.com/DarkDev_Sol",
-    "telegram": "https://telegram.org"
+    "telegram": "https://telegram.org",
+    "banner": "https://raw.githubusercontent.com/DaveTheDev-Sol/boocoin-assets/main/boobans.png"
   }
 }
