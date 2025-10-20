@@ -1,7 +1,7 @@
 {
   "name": "BOO",
   "symbol": "BOO",
-  "image": "https://raw.githubusercontent.com/DaveTheDev-Sol/trustcoin-assets/main/TrustCoin500.png",
+  "image": "https://raw.githubusercontent.com/DaveTheDev-Sol/boocoin-assets/main/boologos.png",
   "description": "Dont get spooked.",
   "attributes": [
     { "trait_type": "Type", "value": "Memecoin" },
